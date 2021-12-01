@@ -15,6 +15,6 @@ library to create a bubble themed composition.
 off of Magd 150. This lab focused on graphic design elements like filters, typography, and images.
 
 [Here is the link to lab 10- 3D and Data]. The objective of this lab was to create a city using 3D shapes. I used rectangles
-for buildings, floating shapes (torus, cone), and created a moving terrain as mountains in the city. The objectiveof this lab 
+for buildings, floating shapes (torus, cone), and created a moving terrain as mountains in the city. The objective of this lab 
 was to use textures, camera angles, and lighting to create a dynamic 3D composition. 
 
