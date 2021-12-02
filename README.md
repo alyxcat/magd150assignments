@@ -1,6 +1,6 @@
 # Magd 150 Assignments 
 
-## This is the repository for my Magd 150 projects from Fall '21 at UW-Whitewater
+### This is the repository for my Magd 150 projects from Fall '21 at UW-Whitewater
 
 [Here is the link to Lab 1- Composition in Black and White](https://github.com/alyxcat/magd150assignments/tree/gh-pages/f21magd150lab01_Aberdeen). 
 The objective of this lab was to learn how to use P5.js 
