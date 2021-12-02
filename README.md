@@ -9,7 +9,7 @@ by creating basic shapes and using stroke and fill to create buildings.
 The objective of this lab was to create a space themed image 
 with a focus on compositional elements like color and shape. 
 
-[Here is the link to Lab 3- Math](https://github.com/alyxcat/magd150assignments/tree/main/f21magd150lab03_Aberdeen). The objective of this lab was to use math operators and math references in the p5.js 
+[Here is the link to Lab 3- Math](https://github.com/alyxcat/magd150assignments/tree/gh-pages/f21magd150lab03_Aberdeen). The objective of this lab was to use math operators and math references in the p5.js 
 library to create a bubble themed composition. 
 
 [Here is the link to Lab 8- Type and image](https://editor.p5js.org/alyxcat/full/GCQghRu7d). The objective of this lab was to create a movie poster, and mine is based off of Magd 150. This lab focused on graphic design elements like filters, typography, and images.
